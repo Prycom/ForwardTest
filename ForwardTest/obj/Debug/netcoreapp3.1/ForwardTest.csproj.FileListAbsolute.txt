@@ -1,0 +1,15 @@
+C:\Users\asgor\source\repos\ForwardTest\ForwardTest\obj\Debug\netcoreapp3.1\ForwardTest.csproj.AssemblyReference.cache
+C:\Users\asgor\source\repos\ForwardTest\ForwardTest\obj\Debug\netcoreapp3.1\ForwardTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asgor\source\repos\ForwardTest\ForwardTest\obj\Debug\netcoreapp3.1\ForwardTest.AssemblyInfoInputs.cache
+C:\Users\asgor\source\repos\ForwardTest\ForwardTest\obj\Debug\netcoreapp3.1\ForwardTest.AssemblyInfo.cs
+C:\Users\asgor\source\repos\ForwardTest\ForwardTest\obj\Debug\netcoreapp3.1\ForwardTest.csproj.CoreCompileInputs.cache
+C:\Users\asgor\source\repos\ForwardTest\ForwardTest\bin\Debug\netcoreapp3.1\ForwardTest.exe
+C:\Users\asgor\source\repos\ForwardTest\ForwardTest\bin\Debug\netcoreapp3.1\ForwardTest.deps.json
+C:\Users\asgor\source\repos\ForwardTest\ForwardTest\bin\Debug\netcoreapp3.1\ForwardTest.runtimeconfig.json
+C:\Users\asgor\source\repos\ForwardTest\ForwardTest\bin\Debug\netcoreapp3.1\ForwardTest.runtimeconfig.dev.json
+C:\Users\asgor\source\repos\ForwardTest\ForwardTest\bin\Debug\netcoreapp3.1\ForwardTest.dll
+C:\Users\asgor\source\repos\ForwardTest\ForwardTest\bin\Debug\netcoreapp3.1\ForwardTest.pdb
+C:\Users\asgor\source\repos\ForwardTest\ForwardTest\obj\Debug\netcoreapp3.1\ForwardTest.dll
+C:\Users\asgor\source\repos\ForwardTest\ForwardTest\obj\Debug\netcoreapp3.1\ForwardTest.pdb
+C:\Users\asgor\source\repos\ForwardTest\ForwardTest\obj\Debug\netcoreapp3.1\ForwardTest.genruntimeconfig.cache
+C:\Users\asgor\source\repos\ForwardTest\ForwardTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
